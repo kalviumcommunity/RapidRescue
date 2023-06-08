@@ -22,6 +22,7 @@ The primary goal of RapidRescue is to bridge the gap between patients in need an
 
 - Reviews and Ratings: Users have the opportunity to provide feedback, ratings, and reviews about their experience with doctors, ensuring transparency and accountability.
 
+
 ## Getting Started
 
 To get started with RapidRescue, follow these steps:
