@@ -14,7 +14,7 @@ The primary goal of RapidRescue is to bridge the gap between patients in need an
 
 - Real-time Location Tracking: The app enables real-time tracking of both users and doctors, allowing users to locate the nearest available doctors in their vicinity.
 
-- 5Seamless Communication: RapidRescue provides a seamless communication platform for users and doctors, ensuring effective information exchange, coordination, and assistance.
+- Seamless Communication: RapidRescue provides a seamless communication platform for users and doctors, ensuring effective information exchange, coordination, and assistance.
 
 - Emergency Alerts: The app offers an emergency alert system that notifies nearby doctors about critical situations, enabling them to respond swiftly.
 
